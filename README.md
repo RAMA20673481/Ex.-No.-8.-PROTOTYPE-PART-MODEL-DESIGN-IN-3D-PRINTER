@@ -46,6 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+
+![Screenshot 2025-01-03 141619](https://github.com/user-attachments/assets/402f8cbf-ebd7-4c8e-aaef-d5f609c55aff)
+
 ![WhatsApp Image 2024-12-05 at 13 10 55_d55291d8](https://github.com/user-attachments/assets/2842f862-00cc-46f4-b84a-f064502aa08e)
 
 ### Name:G.Ramanujam
